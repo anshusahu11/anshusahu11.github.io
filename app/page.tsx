@@ -37,7 +37,7 @@ export default function Portfolio() {
     email: "anshusahunov@gmail.com",
     phone: "+91-9450931991",
     location: "IIT Indore, India",
-    profileImage: "/professional-researcher-portrait.png",
+    profileImage: "/pfp.jpg",
     dateOfBirth: "November 11, 1992",
     nationality: "Indian",
     languages: ["English", "Hindi"],
