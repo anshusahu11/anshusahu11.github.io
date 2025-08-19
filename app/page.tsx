@@ -32,7 +32,7 @@ export default function Portfolio() {
 
   const personalInfo = {
     name: "Dr. Anshu Sahu",
-    title: "Research Associate | Additive Manufacturing Expert",
+    title: "Research Associate | Advanced Manufacturing Technology",
     description: "Specializing in Laser μ-3D Printing, Shape Memory Alloys, and Advanced Manufacturing Technologies",
     email: "anshusahunov@gmail.com",
     phone: "+91-9450931991",
