@@ -59,9 +59,9 @@ export default function Portfolio() {
     photos: [
       {
         id: 1,
-        title: "Laser μ-3D Printer Setup",
-        description: "Custom-built laser decal transfer based micro 3D printer",
-        url: "/laser-3d-printer-lab.png",
+        title: "Laser μ-3D Printing Process",
+        description: "Mechanics of transfer",
+        url: "/Schematic of LIFT.png",
         category: "Equipment",
       },
       {
